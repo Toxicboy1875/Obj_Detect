@@ -1,4 +1,4 @@
-#Obj_Detect
+# Obj_Detect
 Overview
 This project implements an obstacle detection system using a webcam feed and the YOLOv5 object detection model. The system identifies specific obstacles and uses text-to-speech to alert the user about the presence of these obstacles in real-time.
 
