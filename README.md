@@ -12,13 +12,11 @@ Installation
 Clone the Repository:
 
 sh
-Copy code
 git clone https://github.com/yourusername/obstacle-detection.git
 cd obstacle-detection
 Install Dependencies:
 
 sh
-Copy code
 pip install opencv-python torch pyttsx3 pathlib
 Download COCO Names:
 Ensure you have the coco.names file in the same directory as your script. You can download it from COCO dataset labels.
@@ -27,7 +25,6 @@ Usage
 Run the Script:
 
 sh
-Copy code
 python obstacle_detection.py
 Interact with the System:
 
